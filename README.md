@@ -1,6 +1,6 @@
 channels_list_conv
 ---
-[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)][license]
+[license]: /LICENSE
 
 convert Mirakurun channels JSON to m3u8 list
 
